@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Samurai",
+    "category": "Super Ninja",
+    "universe": "Anime",
+    "type": "Manga",
+    "id": 1001,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Joshua Tree National Park",
+    "coordinates": {
+      "longitude": -116.166868,
+      "latitude": 34.011286,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "samurai"
+  },
+  {
+    "name": "Batman",
+    "category": "Super Hero",
+    "universe": "DC",
+    "type": "Dark Knight",
+    "id": 1013,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Joshua Tree National Park",
+    "coordinates": {
+      "longitude": -116.166868,
+      "latitude": 34.011286,
+      "url": "https://www.apple.com"
+    },
+    "description": "Batman's secret identity is Bruce Wayne, a wealthy American industrialist. As a child, Bruce witnessed the murder of his parents, Dr. Thomas Wayne and Martha Wayne, which ultimately led him to craft the Batman persona and seek justice against criminals. He resides on the outskirts of Gotham City in his personal residence, Wayne Manor. Wayne averts suspicion by acting the part of a superficial playboy idly living off his family's fortune and the profits of Wayne Enterprises, his inherited conglomerate.[70][71] He supports philanthropic causes through his nonprofit Wayne Foundation, but is more widely known as a celebrity socialite.[72] In public, he frequently appears in the company of high-status women, which encourages tabloid gossip. Although Bruce Wayne leads an active romantic life, his vigilante activities as Batman account for most of his time.[73]. Various modern stories have portrayed the extravagant, playboy image of Bruce Wayne as a facade.[74] This is in contrast to the Post-Crisis Superman, whose Clark Kent persona is the true identity, while the Superman persona is the facade.[75][76] In Batman Unmasked, a television documentary about the psychology of the character, behavioral scientist Benjamin Karney notes that Batman's personality is driven by Bruce Wayne's inherent humanity; that Batman, for all its benefits and for all of the time Bruce Wayne devotes to it, is ultimately a tool for Bruce Wayne's efforts to make the world better. Bruce Wayne's principles include the desire to prevent future harm and a vow not to kill. Bruce Wayne believes that our actions define us, we fail for a reason and anything is possible. Writers of Batman and Superman stories have often compared and contrasted the two. Interpretations vary depending on the writer, the story, and the timing. Grant Morrison[78] notes that both heroes believe in the same kind of things despite the day/night contrast their heroic roles display. He notes an equally stark contrast in their real identities. Bruce Wayne and Clark Kent belong to different social classes: Bruce has a butler, Clark has a boss. T. James Musler's book Unleashing the Superhero in Us All explores the extent to which Bruce Wayne's vast personal wealth is important in his life story, and the crucial role it plays in his efforts as Batman. Will Brooker notes in his book Batman Unmasked that3the confirmation of the Batman's identity lies with the young audience ...he doesn't have to be Bruce Wayne; he just needs the suit and gadgets, the abilities, and most importantly the morality, the humanity. There's just a sense about him: 'they trust him ...and they're never wrong.",
+    "imageName": "batman"
+  },{
+    "name": "Joker Laugh",
+    "category": "Super Bady",
+    "universe": "DC",
+    "type": "Dark Knight",
+    "id": 1014,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Joshua Tree National Park",
+    "coordinates": {
+      "longitude": -116.166868,
+      "latitude": 34.011286,
+      "url": "https://www.apple.com"
+    },
+    "description": "Batman's secret identity is Bruce Wayne, a wealthy American industrialist. As a child, Bruce witnessed the murder of his parents, Dr. Thomas Wayne and Martha Wayne, which ultimately led him to craft the Batman persona and seek justice against criminals. He resides on the outskirts of Gotham City in his personal residence, Wayne Manor. Wayne averts suspicion by acting the part of a superficial playboy idly living off his family's fortune and the profits of Wayne Enterprises, his inherited conglomerate.[70][71] He supports philanthropic causes through his nonprofit Wayne Foundation, but is more widely known as a celebrity socialite.[72] In public, he frequently appears in the company of high-status women, which encourages tabloid gossip. Although Bruce Wayne leads an active romantic life, his vigilante activities as Batman account for most of his time.[73]. Various modern stories have portrayed the extravagant, playboy image of Bruce Wayne as a facade.[74] This is in contrast to the Post-Crisis Superman, whose Clark Kent persona is the true identity, while the Superman persona is the facade.[75][76] In Batman Unmasked, a television documentary about the psychology of the character, behavioral scientist Benjamin Karney notes that Batman's personality is driven by Bruce Wayne's inherent humanity; that Batman, for all its benefits and for all of the time Bruce Wayne devotes to it, is ultimately a tool for Bruce Wayne's efforts to make the world better. Bruce Wayne's principles include the desire to prevent future harm and a vow not to kill. Bruce Wayne believes that our actions define us, we fail for a reason and anything is possible. Writers of Batman and Superman stories have often compared and contrasted the two. Interpretations vary depending on the writer, the story, and the timing. Grant Morrison[78] notes that both heroes believe in the same kind of things despite the day/night contrast their heroic roles display. He notes an equally stark contrast in their real identities. Bruce Wayne and Clark Kent belong to different social classes: Bruce has a butler, Clark has a boss. T. James Musler's book Unleashing the Superhero in Us All explores the extent to which Bruce Wayne's vast personal wealth is important in his life story, and the crucial role it plays in his efforts as Batman. Will Brooker notes in his book Batman Unmasked that3the confirmation of the Batman's identity lies with the young audience ...he doesn't have to be Bruce Wayne; he just needs the suit and gadgets, the abilities, and most importantly the morality, the humanity. There's just a sense about him: 'they trust him ...and they're never wrong.",
+    "imageName": "joker_feature"
+  },{
+    "name": "Joker Smile",
+    "category": "Super Hero",
+    "universe": "DC",
+    "type": "Dark Knight",
+    "id": 1015,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Joshua Tree National Park",
+    "coordinates": {
+      "longitude": -116.166868,
+      "latitude": 34.011286,
+      "url": "https://www.apple.com"
+    },
+    "description": "Batman's secret identity is Bruce Wayne, a wealthy American industrialist. As a child, Bruce witnessed the murder of his parents, Dr. Thomas Wayne and Martha Wayne, which ultimately led him to craft the Batman persona and seek justice against criminals. He resides on the outskirts of Gotham City in his personal residence, Wayne Manor. Wayne averts suspicion by acting the part of a superficial playboy idly living off his family's fortune and the profits of Wayne Enterprises, his inherited conglomerate.[70][71] He supports philanthropic causes through his nonprofit Wayne Foundation, but is more widely known as a celebrity socialite.[72] In public, he frequently appears in the company of high-status women, which encourages tabloid gossip. Although Bruce Wayne leads an active romantic life, his vigilante activities as Batman account for most of his time.[73]. Various modern stories have portrayed the extravagant, playboy image of Bruce Wayne as a facade.[74] This is in contrast to the Post-Crisis Superman, whose Clark Kent persona is the true identity, while the Superman persona is the facade.[75][76] In Batman Unmasked, a television documentary about the psychology of the character, behavioral scientist Benjamin Karney notes that Batman's personality is driven by Bruce Wayne's inherent humanity; that Batman, for all its benefits and for all of the time Bruce Wayne devotes to it, is ultimately a tool for Bruce Wayne's efforts to make the world better. Bruce Wayne's principles include the desire to prevent future harm and a vow not to kill. Bruce Wayne believes that our actions define us, we fail for a reason and anything is possible. Writers of Batman and Superman stories have often compared and contrasted the two. Interpretations vary depending on the writer, the story, and the timing. Grant Morrison[78] notes that both heroes believe in the same kind of things despite the day/night contrast their heroic roles display. He notes an equally stark contrast in their real identities. Bruce Wayne and Clark Kent belong to different social classes: Bruce has a butler, Clark has a boss. T. James Musler's book Unleashing the Superhero in Us All explores the extent to which Bruce Wayne's vast personal wealth is important in his life story, and the crucial role it plays in his efforts as Batman. Will Brooker notes in his book Batman Unmasked that3the confirmation of the Batman's identity lies with the young audience ...he doesn't have to be Bruce Wayne; he just needs the suit and gadgets, the abilities, and most importantly the morality, the humanity. There's just a sense about him: 'they trust him ...and they're never wrong.",
+    "imageName": "joker2_feature"
+  },{
+    "name": "Joker Killer smile",
+    "category": "Super Hero",
+    "universe": "DC",
+    "type": "Dark Knight",
+    "id": 1016,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Joshua Tree National Park",
+    "coordinates": {
+      "longitude": -116.166868,
+      "latitude": 34.011286,
+      "url": "https://www.apple.com"
+    },
+    "description": "Batman's secret identity is Bruce Wayne, a wealthy American industrialist. As a child, Bruce witnessed the murder of his parents, Dr. Thomas Wayne and Martha Wayne, which ultimately led him to craft the Batman persona and seek justice against criminals. He resides on the outskirts of Gotham City in his personal residence, Wayne Manor. Wayne averts suspicion by acting the part of a superficial playboy idly living off his family's fortune and the profits of Wayne Enterprises, his inherited conglomerate.[70][71] He supports philanthropic causes through his nonprofit Wayne Foundation, but is more widely known as a celebrity socialite.[72] In public, he frequently appears in the company of high-status women, which encourages tabloid gossip. Although Bruce Wayne leads an active romantic life, his vigilante activities as Batman account for most of his time.[73]. Various modern stories have portrayed the extravagant, playboy image of Bruce Wayne as a facade.[74] This is in contrast to the Post-Crisis Superman, whose Clark Kent persona is the true identity, while the Superman persona is the facade.[75][76] In Batman Unmasked, a television documentary about the psychology of the character, behavioral scientist Benjamin Karney notes that Batman's personality is driven by Bruce Wayne's inherent humanity; that Batman, for all its benefits and for all of the time Bruce Wayne devotes to it, is ultimately a tool for Bruce Wayne's efforts to make the world better. Bruce Wayne's principles include the desire to prevent future harm and a vow not to kill. Bruce Wayne believes that our actions define us, we fail for a reason and anything is possible. Writers of Batman and Superman stories have often compared and contrasted the two. Interpretations vary depending on the writer, the story, and the timing. Grant Morrison[78] notes that both heroes believe in the same kind of things despite the day/night contrast their heroic roles display. He notes an equally stark contrast in their real identities. Bruce Wayne and Clark Kent belong to different social classes: Bruce has a butler, Clark has a boss. T. James Musler's book Unleashing the Superhero in Us All explores the extent to which Bruce Wayne's vast personal wealth is important in his life story, and the crucial role it plays in his efforts as Batman. Will Brooker notes in his book Batman Unmasked that3the confirmation of the Batman's identity lies with the young audience ...he doesn't have to be Bruce Wayne; he just needs the suit and gadgets, the abilities, and most importantly the morality, the humanity. There's just a sense about him: 'they trust him ...and they're never wrong.",
+    "imageName": "joker3_feature"
+  },
+  {
+    "name": "Joker",
+    "category": "Super Bady",
+    "universe": "DC",
+    "type": "Dark Knight",
+    "id": 1002,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Lake Clark National Park and Preserve",
+    "coordinates": {
+      "longitude": -152.665167,
+      "latitude": 59.980167,
+      "url": "https://www.apple.com"
+    },
+    "description": "The Joker's main characteristic is his apparent insanity, although he is not described as having any particular psychological disorder. Like a psychopath, he lacks empathy, a conscience, and concern over right and wrong. In Arkham Asylum: A Serious House on Serious Earth, the Joker is described as capable of processing outside sensory information only by adapting to it. This enables him to create a new personality every day (depending on what would benefit him) and explains why, at different times, he is a mischievous clown or a psychopathic killer.[123] In  The Clown at Midnight (Batman #663 (April 2007)), the Joker enters a meditative state where he evaluates his previous selves to consciously create a new personality, effectively modifying himself for his needs. The Killing Joke (in which the Joker is the unreliable narrator) explains the roots of his insanity as one bad day: losing his wife and unborn child and being disfigured by chemicals, paralleling Batman's origin in the loss of his parents. He tries (and fails) to prove that anyone can become like him after one bad day by torturing Commissioner Gordon, physically and psychologically.[29][53] Batman offers to rehabilitate his foe; the Joker apologetically declines, believing it too late for him to be saved.[70] Other interpretations show that the Joker is fully aware of how his actions affect others and that his insanity as merely an act.[116] Comics scholar Peter Coogan describes the Joker as trying to reshape reality to fit himself by imposing his face on his victims (and fish) in an attempt to make the world comprehensible by creating a twisted parody of himself. Englehart's The Laughing Fish demonstrates the character's illogical nature: trying to copyright fish that bear his face, and not understanding why threatening the copyright clerk cannot produce the desired result.",
+    "imageName": "joker"
+  },
+  {
+    "name": "Lex Luthor",
+    "category": "Super Bady",
+    "universe": "DC",
+    "type": "Dark Knight",
+    "id": 1004,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Glacier National Park",
+    "coordinates": {
+      "longitude": -113.536248,
+      "latitude": 48.69423,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "lexluthor"
+  },
+  {
+    "name": "Hulk",
+    "category": "Super Hero",
+    "universe": "MCU",
+    "type": "Avengers",
+    "id": 1005,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Lake Clark National Park and Preserve",
+    "coordinates": {
+      "longitude": -153.849883,
+      "latitude": 60.641684,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "hulk"
+  },
+  {
+    "name": "Iron Man",
+    "category": "Super Hero",
+    "universe": "MCU",
+    "type": "IM Series",
+    "id": 1006,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Glacier National Park",
+    "coordinates": {
+      "longitude": -113.934831,
+      "latitude": 48.56002,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "ironman"
+  },
+  {
+    "name": "Spider Man",
+    "category": "Super Hero",
+    "universe": "MCU",
+    "type": "Spidy",
+    "id": 1007,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Charley Rivers National Preserve",
+    "coordinates": {
+      "longitude": -143.122586,
+      "latitude": 65.350021,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "spiderman"
+  },
+  {
+    "name": "Wolverine",
+    "category": "Super Hero",
+    "universe": "Marvel Comics",
+    "type": "X-Men",
+    "id": 1008,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Wrangell-St. Elias National Park and Preserve",
+    "coordinates": {
+      "longitude": -141.518167,
+      "latitude": 60.089917,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "logan"
+  },
+  {
+    "name": "Killmonger",
+    "category": "Super Bady",
+    "universe": "MCU",
+    "type": "Black Panther",
+    "id": 1009,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "State Recreation Area",
+    "coordinates": {
+      "longitude": -150.086103,
+      "latitude": 61.694334,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "killmonger"
+  },
+  {
+    "name": "Bane",
+    "category": "Super Bady",
+    "universe": "DC",
+    "type": "Dark Knight",
+    "id": 1010,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "North Cascades National Park",
+    "coordinates": {
+      "longitude": -121.17799,
+      "latitude": 48.495442,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "bane"
+  },
+  {
+    "name": "Thanos",
+    "category": "Super Bady",
+    "universe": "MCU",
+    "type": "Avengers",
+    "id": 1011,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Chincoteague National Wildlife Refuge",
+    "coordinates": {
+      "longitude": -75.383212,
+      "latitude": 37.91531,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "thanos"
+  },
+  {
+    "name": "Magneto",
+    "category": "Super Bady",
+    "universe": "Marvel Comics",
+    "type": "X-Men",
+    "id": 1012,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Umbagog National Wildlife Refuge",
+    "coordinates": {
+      "longitude": -71.056816,
+      "latitude": 44.747408,
+      "url": "https://www.apple.com"
+    },
+    "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+    "imageName": "magneto"
+  }
+]
